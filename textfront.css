@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,200;1,100&display=swap');
+h1{
+    text-transform: uppercase;
+    /* text-decoration: line through overline underline;*/
+    text-decoration: underline red;
+    /*text-shadow: 5px 5px 5px black,-5px -5px -5px orangered;*/
+
+}
+p{
+    text-transform: capitalize;
+    font-weight: bold;
+    /*font-style: italic;*/
+    font-family: 'phundu', cursive;
+}
+a{
+    text-decoration: none;
+}
